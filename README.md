@@ -4,8 +4,11 @@ These models were created in 'Blender for my university module 'Team Project' to
 
 List of models:
 
-• Pistol
-• Ground spikes
-• Torch
-• Wall 
+        • Pistol
+
+        • Ground spikes
+
+        • Torch
+
+        • Wall 
         	 
