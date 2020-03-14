@@ -10,5 +10,7 @@ List of models:
 
         • Torch
 
-        • Wall 
+        • Wall
+                • Pillar Wall
+                
         	 
