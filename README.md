@@ -11,7 +11,10 @@ List of models:
         • Torch
 
         • Wall
-                • Pillar Wall
+                • Single Pillar Wall
+                
+                • Multiple Pillared Wall
+                
                 
         • Door
                 
